@@ -38,3 +38,9 @@
  .reader-text{font-size:15px;line-height:1.82}
  .reader-text p{margin-bottom:23px}
 }
+
+/* Strong keyboard selection signal. */
+.prompt-row.selected{background:#eaf3ec;box-shadow:inset 0 0 0 1px #bed2c5}
+.prompt-row.selected .copy-row .label{color:var(--green);font-weight:600}
+.prompt-row.selected .shortcut{background:var(--green);border-color:var(--green);color:#fff}
+.prompt-row.selected .row-caret{color:var(--green)}
