@@ -23,6 +23,7 @@ The keyboard flow is deliberately simple:
 
 - Press **1–9** or **0** to copy a main prompt immediately.
 - Press **R / C / X / Q / S** to copy the situational prompts immediately.
+- Press **B** to copy “Write a feature spec” under **Building Stuff**.
 - Press **Enter** to open the prompt you just copied.
 - Press **⌘K** / **Ctrl-K** to search.
 - In the prompt reader, click **Copy prompt** or press **⌘Enter** / **Ctrl-Enter**.

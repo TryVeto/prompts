@@ -1,5 +1,5 @@
 const $=s=>document.querySelector(s);
-const keyMap={'1':'01','2':'02','3':'03','4':'04','5':'05','6':'06','7':'07','8':'08','9':'09','0':'10',r:'R',c:'C',x:'X',q:'Q',s:'S'};
+const keyMap={'1':'01','2':'02','3':'03','4':'04','5':'05','6':'06','7':'07','8':'08','9':'09','0':'10',r:'R',c:'C',x:'X',q:'Q',s:'S',b:'B'};
 let prompts=[],matches=[],chosen=null,openId=null,composing=false;
 const row=id=>prompts.find(p=>p.id===id);
 const normalize=s=>String(s||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim();
@@ -9,7 +9,7 @@ function node(tag,cls='',text){const e=document.createElement(tag);if(cls)e.clas
 function notify(msg){const t=$('#toast');t.textContent=msg;t.hidden=false;clearTimeout(notify.timer);notify.timer=setTimeout(()=>t.hidden=true,1600)}
 function setChosen(id,focus=false,announce=false){chosen=id;document.querySelectorAll('.prompt-row').forEach(x=>{const on=x.dataset.row===id;x.classList.toggle('selected',on);x.setAttribute('aria-selected',String(on))});if(focus)document.querySelector(`[data-open="${id}"]`)?.focus({preventScroll:false});if(announce){const p=row(id);if(p){$('#key-hint').textContent=`${p.key} selected · Enter to open ${p.title}`;notify(`${p.key} · ${p.title} selected — Enter to open`)}}}
 function render(){const out=$('#results');out.replaceChildren();matches=search($('#find').value);if(!matches.some(p=>p.id===chosen))chosen=matches[0]?.id||null;if(!matches.length){out.append(node('div','empty','No matching prompts.'));return}let last=null;
-for(const p of matches){if(!$('#find').value.trim()&&last!==p.group){if(last!==null)out.append(node('hr','group-break'));const h=node('h2','group-heading'+(!last?' first':''),p.group==='helper'?'When needed':'Prompts');out.append(h);last=p.group}
+for(const p of matches){if(!$('#find').value.trim()&&last!==p.group){if(last!==null)out.append(node('hr','group-break'));const h=node('h2','group-heading'+(!last?' first':''),p.group==='building'?'Building Stuff':p.group==='helper'?'When needed':'Prompts');out.append(h);last=p.group}
 const wrap=node('div','prompt-row');wrap.dataset.row=p.id;wrap.classList.toggle('selected',p.id===chosen);const b=node('button','copy-row');b.type='button';b.dataset.open=p.id;b.setAttribute('aria-label',`Open ${p.title}`);b.append(node('kbd','shortcut',p.key),node('span','label',p.title),node('span','row-caret','›'));b.addEventListener('focus',()=>setChosen(p.id));b.addEventListener('click',()=>openReader(p.id));wrap.append(b);out.append(wrap)}}
 function prose(text,target){target.replaceChildren();for(const block of text.split(/\n\s*\n/)){const lines=block.split('\n');if(/^[A-Z][A-Z /&—-]+$/.test(lines[0])&&lines[0].length<65){target.append(node('h3','',lines.shift()));if(lines.length)target.append(node('p','',lines.join('\n')))}else target.append(node('p','',block))}}
 function routeId(){const m=location.pathname.match(/^\/prompt\/([^/]+)\/?$/);return m?decodeURIComponent(m[1]):null}

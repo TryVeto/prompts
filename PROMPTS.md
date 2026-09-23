@@ -507,3 +507,14 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
+
+## Building Stuff
+
+### B · Write a feature spec
+
+Can you please start by analyzing all of our prior work on this subject, as well as references, resources and best practices in order to write the spec for this feature? I will describe the feature below. The important thing is to use all the tools at our disposal, including Firecrawl, Nessie, Supermemory, Parallel, Web Search, Remote Desktop Commander, as well as any skills that you might find helpful. The purpose is for us to be able to maximize the amount of alpha that we get out of this next turn, so that we can build the best deliverable at the highest quality.
+
+Note, there are many ways to do the work, but I find that it's very useful to write out my thoughts before I answer. Whether it's one page or ten pages or even one hundred pages, writing out my analysis is a very useful tool for me to get higher quality and clearer thinking, as well as more actionable advice and feedback. I think that what it is important is that you can actually work for an extremely long time at an immense level of detail, and so let's be extremely ambitious.
+
+Here is the task:
+• Write the v1 spec for the Workflows feature in the console
