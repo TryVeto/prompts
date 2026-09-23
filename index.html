@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Veto Prompts</title>
+<link rel="stylesheet" href="/styles.css">
+<script type="module" src="/app.js"></script>
+</head>
+<body>
+<main class="launcher" id="launcher" tabindex="-1">
+<header class="topbar">
+<h1>Prompts</h1>
+</header>
+<div class="search-wrap">
+<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 4.5 4.5"></path></svg>
+<input id="find" type="search" placeholder="Find a prompt…" aria-label="Find a prompt" autocomplete="off" spellcheck="false">
+<button class="search-shortcut" id="focus-search" type="button">⌘ K</button>
+</div>
+<div id="load-error" class="load-error" role="alert" hidden></div>
+<div id="results" aria-label="Prompt library"><p class="loading">Loading prompts…</p></div>
+<footer class="hint"><span id="key-hint">Press a key, then Enter to open.</span></footer>
+</main><section id="reader" class="reader" hidden aria-labelledby="reader-title">
+<div class="reader-shell">
+<header class="reader-nav">
+<button id="reader-back" class="reader-back" type="button">← Prompts</button>
+<div class="reader-actions"><button id="reader-copy" class="primary" type="button">Copy prompt</button></div>
+</header>
+<article class="reader-article">
+<p id="reader-key" class="reader-key"></p>
+<h1 id="reader-title"></h1>
+<p id="reader-subtitle" class="reader-subtitle"></p>
+<div class="reader-use"><span>Use when</span><p id="reader-use"></p></div>
+<div id="reader-text" class="reader-text"></div>
+</article>
+</div>
+</section>
+<dialog id="manual" aria-labelledby="manual-title">
+<div class="dialog-head"><h2 id="manual-title">Copy manually</h2><button class="icon-button close-dialog" aria-label="Close">×</button></div>
+<div class="dialog-scroll">
+<p>Clipboard access was blocked. Select the text below and copy it.</p>
+<textarea id="manual-text" readonly aria-label="Prompt text"></textarea>
+</div>
+</dialog>
+<div id="toast" role="status" aria-live="polite" hidden></div>
+</body>
+</html>
