@@ -26,7 +26,7 @@ The keyboard flow is deliberately simple:
 - Under **Building Stuff**, press **B** for “Write a feature spec” **J** for “Ready to ship?”, or **N** for “Iterate with the reference”.
 - Press **Enter** to open the prompt you just copied.
 - Press **⌘K** / **Ctrl-K** to search.
-- In the prompt reader, click **Copy prompt** or press **⌘Enter** / **Ctrl-Enter**.
+- In any prompt reader, press **C**, click **Copy prompt**, or press **⌘Enter** / **Ctrl-Enter**. Typing fields and normal ⌘C / Ctrl-C are unaffected.
 - Press **Escape** to return to the library.
 
 Each prompt has one canonical version. There are no hidden short/deep/full variants.
