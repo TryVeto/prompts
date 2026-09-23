@@ -40,9 +40,9 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
 
-## 2 · Find examples
+## 2 · Find the reference
 
-Find strong examples and define the quality to aim for.
+Choose the primary reference and explain what to learn from it.
 
 **Use when:** We know the assignment but need a stronger quality standard or relevant references.
 
@@ -53,7 +53,7 @@ Find what excellent looks like for this assignment and complete the research and
 
 Use this taste direction: find the core essence of the thing and exercise extreme restraint about adding anything else. Restraint should intensify meaning, usefulness, and distinctiveness, not produce sterile minimalism or remove essential explanation, accessibility, or recovery. Adapt that preference to the medium and audience rather than imposing one visual style everywhere.
 
-Search beyond the first plausible examples. Begin with my actual favorites, inspect exceptional relevant work and production resources, and investigate consequential contradictions. Choose principal anchors for particular passages, behaviors, sequences, or details that matter. Explain what transfers, what does not, and what our work should do differently because of each reference. A list of admired brands is not this analysis.
+Search beyond the first plausible examples. Begin with my actual favorites, inspect exceptional relevant work and production resources, and investigate consequential contradictions. Recommend one primary reference for this project: a specific product, workflow, or artifact we can inspect and learn from. Compare credible alternatives and explain why this is the most informative reference for our problem. Use supporting references only where the primary one leaves a material gap. Explain what transfers, what does not, and what our work should do differently because of each reference. A list of admired brands is not this analysis.
 
 Use contrastive examples to make the bar concrete: why an excellent result works and why an attractive near-miss does not. Keep actual inspection, creator claims, my recorded reactions, and your interpretation separate. Reading about an app is not using it; never invent a dislike or approval. Do not turn the references into a recipe for blending styles.
 
@@ -62,7 +62,7 @@ Define the audience, intended effect, deliverable, fixed constraints, observable
 Check real source, assets, creation tools, rendering, and inspection early. Name the smallest valid artifact that can expose the hardest uncertainty; use existing good work when it already supplies that evidence. Stop broadening the search when further evidence is unlikely to change the bar or next experiment, then improve the synthesis itself.
 
 RETURN
-Principal references and the proposed bar first, then the first usable making brief and the most consequential uncertainty. Save or update BAR.md, REFERENCES.md, SEASON-BRIEF.md, and STATE.md only where needed; reuse existing equivalents. Ask whether this describes the level and kind of work I want. This is not design approval.
+The recommended primary reference, its exact workflow or artifact and source links, why it fits, what to adopt or avoid, and the proposed bar first, then the first usable making brief and the most consequential uncertainty. Save or update BAR.md, REFERENCES.md, SEASON-BRIEF.md, and STATE.md only where needed; reuse existing equivalents. Record the chosen reference and transferable principles in existing project state so exploration and later iterations can reuse them. Distinguish your recommendation from my adopted reference; preserve a choice I have already made. This is not design approval.
 
 DEPTH AND AMBITION
 Full depth. I am willing to wait about 60 minutes for substantial useful work in this turn where the environment permits. Aim for an exceptional result, not the first adequate answer. Save a useful checkpoint, then spend the remaining effort on the most consequential investigation, comparison, making, or repair this task needs. Reserve capacity to verify and deliver. Finish earlier when the real boundary is satisfied; never pad time, pages, or checks. This is an effort preference, not a claim that a prompt controls a timer or model setting.
@@ -73,40 +73,27 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
 
-## 3 · Explore ideas
+## 3 · Explore and validate
 
-Compare different ideas and choose the strongest.
+Compare concrete approaches and test the assumptions that matter.
 
 **Use when:** The governing idea or approach is open.
 
 ASSIGNMENT / OPEN CHOICE
-[Current brief, bar, references, what is fixed, and the governing idea still to find.]
+[Current brief, chosen reference, existing work, constraints, and the important uncertainty.]
 
-Find an exceptional concept through a recorded tournament, not a list of pitches. Default to 32 initial ideas and three seasons with different purposes below. This is an ambitious search allocation, not evidence that 32 or three is optimal. Do not reopen an accepted direction.
+Use the defined project and chosen reference to explore credible approaches and validate the consequential assumptions. Carry forward accepted decisions. If the reference has not been selected, resolve that gap from existing context or make a clearly labeled recommendation.
 
-BEFORE THE DRAW
-Freeze the brief, hard requirements, comparison criteria, relevant references, and evidence boundary. State whether we are comparing concept promise or finished execution. Keep a credible incumbent or straightforward baseline. Check authorized resources and the cost of making, judging, and reporting before committing. Use code for randomization, records, and calculations when available, not mental bookkeeping.
+Start with the uncertainty most likely to change what we build. Explain what evidence would support or reject the leading approach. Develop a small set of materially different options, including the current approach or a straightforward baseline. Let the breadth of exploration follow the uncertainty and stakes; use a larger recorded tournament when it is useful or explicitly requested.
 
-SEASON 1 — DISCOVER
-Create 32 genuinely different ideas across distinct mechanisms. Give each a stable ID, a concise concept card with the same fields and approximate detail, a concrete example of its central moment, its key risk, and its cheapest discriminating test. Preserve rejected ideas. Cosmetic siblings do not count as different concepts.
+Make comparable, concrete examples or representative prototypes so we can judge the experience. Apply the chosen reference’s relevant principles, explain adaptations to our problem, and preserve our requirements. A familiar visual style is not evidence that an approach works.
 
-Use a recorded seeded random draw for pairwise elimination: 32 → 16 → 8 → 4 → 2 → 1, normally 31 advancement decisions. Compare the concept cards before maker advocacy. A screen based on cards ranks promise, not demonstrated experience. Carry the leader and three strong, diverse challengers into matched representative realizations in the intended medium, including a promising early loser when the draw may have hidden it.
+Run the most informative feasible checks against the intended user outcome and shipping standard. Distinguish concept preference, observed behavior, and evidence from real users. Test the key failure or recovery case where relevant. Record actual findings, rejected alternatives, trade-offs, and missing evidence; do not call model agreement or an untested prototype validation.
 
-SEASON 2 — CHALLENGE
-Use the observed weaknesses to generate a new pool: eight promising survivors plus 24 materially fresh challengers by default. Preserve parent IDs for revisions. Run a new recorded draw. Keep comparisons at matched fidelity: do not let a polished survivor beat an undeveloped challenger merely by presentation. Develop the strongest challengers far enough to challenge the incumbent's actual mechanism. Store every iteration separately; improvement of an artifact is not an independent new trial.
-
-SEASON 3 — VALIDATE
-Do not run a third identical knockout and call it validation. Freeze four finalists, including the incumbent or credible baseline, and compare all six distinct pairs with presentation order reversed: 12 judgments. Where useful, test them on a nearby fresh case reserved before development. Do not tune on that case and still call it held out. Compare both relative preference and absolute fitness against the original bar. A tie, preference cycle, or “none meet the bar” is a valid conclusion.
-
-JUDGING AND RECORDS
-Use A, B, tie, neither, or not judged. Record advancement separately from preference: resolve a tie with one discriminating test where feasible; otherwise use a disclosed seeded tie-break, retain the tied alternative for reconsideration, and do not record the draw as a quality win. Never advance a hard-failing candidate as a passing result. Reverse order for consequential or disputed earlier matches. Use genuinely fresh reviewers only when available; disclose same-context judging. My taste is not established by model agreement.
-
-For each match record season, round, candidate IDs and exact versions, presentation order, evaluator/context, inspected evidence, verdict, advancement basis, decisive rationale, uncertainty, and actual time/cost when observable. Save the original outputs and a machine-readable match log. Summaries may show observed wins, ties, order reversals, and coverage, not invented confidence. Correlated model votes are not independent audience observations. A ranking model cannot make a sparse bracket statistically conclusive.
-
-Complete the useful search and develop the strongest result within the authorized work block. If the planned program cannot fit, explicitly resize the experiment before running or save an honestly incomplete checkpoint. Never fill missing rounds with imagined judgments, quietly shrink the promised scope, or imply work continues after the turn.
+Recommend the strongest direction and the next useful action: build it, iterate on a specific gap, or gather a particular missing piece of evidence. State what would change your recommendation. Save the selected approach, reference, evidence, and unresolved questions in existing project state so the next iteration can continue from them.
 
 RETURN
-The strongest actual concept and at most two meaningful alternatives; the decisive evidence, trade-offs, and largest open question; all concept cards, editable realizations, seeded draws, match log, and a readable round-by-round decision report. Separate screening, development, validation, your recommendation, and my approval. Report which seasons actually ran. No model runs are authorized merely by reviewing this prompt.
+The strongest concrete result, the comparison that supports it, what was actually validated, and the remaining uncertainty. Do not stop at an experiment plan when you can complete the useful test now.
 
 DEPTH AND AMBITION
 Full depth. I am willing to wait about 60 minutes for substantial useful work in this turn where the environment permits. Aim for an exceptional result, not the first adequate answer. Save a useful checkpoint, then spend the remaining effort on the most consequential investigation, comparison, making, or repair this task needs. Reserve capacity to verify and deliver. Finish earlier when the real boundary is satisfied; never pad time, pages, or checks. This is an effort preference, not a claim that a prompt controls a timer or model setting.
@@ -514,7 +501,11 @@ My decisions, source material, and your proposals are different things. Preserve
 
 ## Building Stuff
 
-### B · Write a feature spec
+## B · Write a feature spec
+
+Research prior work and references to write a detailed feature specification.
+
+**Use when:** You are ready to specify a feature before building it.
 
 Write the v1 spec for the feature described below.
 
@@ -529,7 +520,11 @@ Lead with your recommended approach and the decisions that matter most. Save the
 Feature:
 [Describe the feature. Example: Workflows in the console.]
 
-### J · Ready to ship?
+## J · Ready to ship?
+
+Decide whether to ship or invest in another iteration.
+
+**Use when:** You need a candid assessment of the current version against the product’s shipping standard.
 
 Are we on the eighth floor of a ten-floor building—or are we still below the standard we should ship?
 
@@ -544,4 +539,28 @@ If more work is worthwhile, identify the one to three improvements with the high
 Lead with the verdict and decisive evidence. Be candid: do not reassure me because we have invested time, and do not recommend another round just because further improvement is possible. This is a readiness assessment; do not deploy or expand scope unless separately authorized.
 
 Work to assess:
+[Use the current artifact and context, or specify a version or link.]
+
+## N · Iterate with the reference
+
+If our chosen reference built this, how would they do it—and why?
+
+**Use when:** Iterating on current work using the project’s chosen reference.
+
+If [reference] were to build this, how would they do it—and why?
+
+Use the reference already chosen for this project unless I name a replacement below. Recover its specific product, workflow, or artifact and the principles we agreed to learn from. If none is established, recommend the best fit and label that choice before proceeding.
+
+Inspect the current version and relevant examples from the reference. Ground the comparison in observable choices and credible sources. Distinguish evidence from your interpretation of how the reference’s creators might approach our problem.
+
+Explain what this implies for the overall experience and each relevant surface: the core model, information hierarchy, navigation, interactions, defaults, and connections between surfaces. Focus on the choices that materially improve the user’s outcome. For each proposed change, explain why it helps, the trade-off, and what must be adapted to our users and constraints.
+
+Then improve the current work using the strongest applicable ideas. Preserve accepted strengths and requirements. Follow the reference’s useful principles without copying details that do not fit. Work within the authorized scope; if this is an assessment-only task, deliver concrete proposed changes instead.
+
+Inspect the revised result in its actual medium, compare it with the previous version, and verify the affected journey or behavior. Report what improved, what evidence supports that judgment, and whether another iteration is worthwhile. Save the revised artifact and retain the prior version and the reference rationale.
+
+Reference:
+[Use the project’s chosen reference, or name a specific replacement.]
+
+Work to iterate:
 [Use the current artifact and context, or specify a version or link.]

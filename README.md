@@ -23,7 +23,7 @@ The keyboard flow is deliberately simple:
 
 - Press **1–9** or **0** to copy a main prompt immediately.
 - Press **R / C / X / Q / S** to copy the situational prompts immediately.
-- Under **Building Stuff**, press **B** for “Write a feature spec” or **J** for “Ready to ship?”.
+- Under **Building Stuff**, press **B** for “Write a feature spec” **J** for “Ready to ship?”, or **N** for “Iterate with the reference”.
 - Press **Enter** to open the prompt you just copied.
 - Press **⌘K** / **Ctrl-K** to search.
 - In the prompt reader, click **Copy prompt** or press **⌘Enter** / **Ctrl-Enter**.
@@ -36,8 +36,8 @@ Each prompt has one canonical version. There are no hidden short/deep/full varia
 | Key | Prompt |
 | --- | --- |
 | 1 | Define the project |
-| 2 | Find examples |
-| 3 | Explore ideas |
+| 2 | Find the reference |
+| 3 | Explore and validate |
 | 4 | Develop the idea |
 | 5 | Make the work |
 | 6 | Polish the work |
@@ -66,3 +66,7 @@ The UI is plain HTML, CSS, and JavaScript. There is no build step and no framewo
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Working sequence
+
+Define the project → Find the reference → Explore and validate. Carry the chosen reference into subsequent iterations: “If [reference] were to build this, how would they do it—and why?” Use the iteration prompt with key N.
