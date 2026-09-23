@@ -512,9 +512,32 @@ My decisions, source material, and your proposals are different things. Preserve
 
 ### B · Write a feature spec
 
-Can you please start by analyzing all of our prior work on this subject, as well as references, resources and best practices in order to write the spec for this feature? I will describe the feature below. The important thing is to use all the tools at our disposal, including Firecrawl, Nessie, Supermemory, Parallel, Web Search, Remote Desktop Commander, as well as any skills that you might find helpful. The purpose is for us to be able to maximize the amount of alpha that we get out of this next turn, so that we can build the best deliverable at the highest quality.
+Write the v1 spec for the feature described below.
 
-Note, there are many ways to do the work, but I find that it's very useful to write out my thoughts before I answer. Whether it's one page or ten pages or even one hundred pages, writing out my analysis is a very useful tool for me to get higher quality and clearer thinking, as well as more actionable advice and feedback. I think that what it is important is that you can actually work for an extremely long time at an immense level of detail, and so let's be extremely ambitious.
+Start by reviewing our relevant prior work, decisions, current product, and constraints. Study strong references and current best practices where they can materially improve the spec. Use the tools and skills actually available—including Firecrawl, Nessie, Supermemory, Parallel, Web Search, and Remote Desktop Commander where useful. Verify access rather than assuming it, and surface any critical blocker.
 
-Here is the task:
-• Write the v1 spec for the Workflows feature in the console
+Be ambitious about the quality and depth of the work. Spend the effort on consequential research, clear decisions, and a coherent specification. Write down the evidence, assumptions, trade-offs, and rationale needed to review your recommendations; use as much detail as the subject requires without padding.
+
+Produce a spec someone can build from: the user problem and intended outcome, scope and non-goals, the complete user journey, key behaviors and states, data and permissions, dependencies, failure and recovery paths, and observable acceptance criteria. Include only sections relevant to this feature. Distinguish existing decisions from your proposals, and resolve what you can before asking me questions.
+
+Lead with your recommended approach and the decisions that matter most. Save the editable spec in the project’s existing location, preserve prior work, and identify any unresolved issue that could materially change implementation.
+
+Feature:
+[Describe the feature. Example: Workflows in the console.]
+
+### J · Ready to ship?
+
+Are we on the eighth floor of a ten-floor building—or are we still below the standard we should ship?
+
+Inspect the current work and judge it against our established product standard, the intended user outcome, and the strongest relevant references. If our standard is unclear, state the provisional bar you are using. Do not treat “8/10” as evidence or assume that more polish is always worth the cost.
+
+Give me a clear recommendation: ship this version, iterate before shipping, or gather specific missing evidence. Separate whether it meets our shipping bar from whether another iteration would create enough additional value to justify the effort.
+
+Ground your judgment in the actual artifact and end-to-end experience. Identify what is already strong, any material gaps, and any release-blocking failure. Distinguish verified behavior from assumptions and checks you could not perform. A serious correctness, security, or usability failure cannot be averaged away by strengths elsewhere.
+
+If more work is worthwhile, identify the one to three improvements with the highest expected impact. Explain what each would change for the user, the likely effort and uncertainty, and the concrete result that would make us stop iterating. Distinguish these from optional refinements we can defer.
+
+Lead with the verdict and decisive evidence. Be candid: do not reassure me because we have invested time, and do not recommend another round just because further improvement is possible. This is a readiness assessment; do not deploy or expand scope unless separately authorized.
+
+Work to assess:
+[Use the current artifact and context, or specify a version or link.]
