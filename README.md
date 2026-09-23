@@ -21,9 +21,9 @@ python3 server.py
 Then open `http://localhost:8926/`.
 The keyboard flow is deliberately simple:
 
-- Press **1–9** or **0** to select a main prompt.
-- Press **R / C / X / Q / S** for the situational prompts.
-- Press **Enter** to open the selected prompt.
+- Press **1–9** or **0** to copy a main prompt immediately.
+- Press **R / C / X / Q / S** to copy the situational prompts immediately.
+- Press **Enter** to open the prompt you just copied.
 - Press **⌘K** / **Ctrl-K** to search.
 - In the prompt reader, click **Copy prompt** or press **⌘Enter** / **Ctrl-Enter**.
 - Press **Escape** to return to the library.
