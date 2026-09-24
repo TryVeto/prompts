@@ -1,5 +1,5 @@
 const $=s=>document.querySelector(s);
-const keyMap={'1':'01','2':'02','3':'03','4':'04','5':'05','6':'06','7':'07','8':'08','9':'09','0':'10',r:'R',c:'C',x:'X',q:'Q',s:'S',b:'B',j:'J',n:'N',v:'V',t:'T'};
+const keyMap={'1':'01','2':'02','3':'03','4':'04','5':'05','6':'06','7':'07','8':'08','9':'09','0':'10',r:'R',c:'C',x:'X',q:'Q',s:'S',b:'B',j:'J',n:'N',v:'V',t:'T',h:'H'};
 let prompts=[],matches=[],chosen=null,openId=null,composing=false;
 const row=id=>prompts.find(p=>p.id===id);
 const normalize=s=>String(s||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim();

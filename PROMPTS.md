@@ -679,6 +679,43 @@ Here is the question:
 
 -
 
+## H · Think it through
+
+Get to the heart of an important question or unresolved concept.
+
+**Use when:** You want a standalone deep dive, a clear judgment, or a concept finally nailed down.
+
+Think deeply about the important question, idea, or tension below and try to get to the heart of it. Give me the strongest answer you can reach in this turn. This is a standalone inquiry: choose the approach the problem needs without turning it into a project-definition, reference-selection, or building workflow.
+
+FIND THE REAL QUESTION
+Read the supplied context and recover relevant prior work where accessible. Identify what we are trying to understand or decide, why it matters, and what remains unresolved. If we are hovering around a concept, articulate its strongest precise form: what it is, what it is not, why it matters, and the distinctions that make it useful. Test whether the premise itself is sound. Preserve my actual intent while challenging assumptions that prevent a better answer.
+
+DEVELOP AND TEST THE ANSWER
+Work through the strongest competing interpretations, explanations, or options. Use concrete examples, counterexamples, analogies with stated limits, and calculations where they help. Examine the implications of each serious alternative and the assumptions on which it depends. Seek evidence that could overturn the leading answer. Use research when external facts matter; distinguish verified facts from inference, judgment, and speculation. A catchy phrase or familiar framework is not enough to settle the question.
+
+SYNTHESIZE SOMETHING USEFUL
+Resolve the central tension as far as the evidence allows. Make a clear recommendation or formulation when justified, explain the decisive reasons and trade-offs, and say what would change your mind. For a concept, give a crisp articulation plus worked examples and boundaries that show it holds together. For a decision, explain which option you would choose and under what conditions. For an explanatory question, give the clearest supported account and test its important implications. Leave genuine uncertainty visible rather than forcing closure.
+
+RETURN
+Lead with the answer, recommendation, or precise concept. Then provide the analysis needed to understand and challenge it, including the strongest alternative, decisive evidence or examples, and remaining uncertainty. Keep the presentation natural to the question. Do not substitute a plan to think about it later, or implement unrelated changes merely because tools are available.
+
+DEPTH AND AMBITION
+Develop a substantial analytical brief that supports the answer: frame the unresolved question, develop competing accounts, work through concrete cases, challenge the leading conclusion, and synthesize the implications. Use this brief to discover and resolve weaknesses in the answer before delivering it. For a complex consequential question, aim for the analytical coverage of a rigorous 40–60-page study when warranted; each section should advance understanding or test a claim. Save substantial supporting work in editable form when useful, and keep the final answer easy to review. Provide evidence and decision rationale rather than a stream-of-consciousness transcript. A short answer may be the result of substantial work.
+
+Aim for approximately 60 minutes of useful work on a substantial inquiry. If the problem is actually solved and the answer verified, finish early. If important tractable gaps remain, keep investigating and refining rather than stopping at the first persuasive response. Do not pad pages, invent complexity, repeat settled checks, or wait idly. When a genuine access, permission, tool, or execution limit blocks further progress, provide the strongest supported answer and identify the precise remaining gap. Report elapsed work only when measured; this instruction does not guarantee runtime or work after your response.
+
+AVAILABLE CAPABILITIES
+Use the capabilities actually available: Nessie and Supermemory for relevant history; Remote Desktop Commander for the real Mac files, local apps, processes, and inspection; connected apps for their live records; web research for current public evidence. Discover and verify the needed access rather than assuming it works. Use applicable skills and the project-approved asset workflow. Separate workers are useful only when genuinely available, authorized, and worth their cost; role-play is not independence. Recover accessible context before asking me to repeat it.
+
+AUTHORITY AND CONTINUITY
+My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
+
+Use the existing conversation and any materials I provide as context; incorporate any details I add below.
+
+Here is what I want you to think through:
+
+-
+
 ## S · Improve a skill
 
 Use real results to improve a repeatable method.
