@@ -300,7 +300,13 @@ RETURN
 The assessment and few decision-changing findings, with inspection evidence and limits, strengths to retain, and the smallest worthwhile next intervention. Mark not-run, blocked, failed, and inconclusive checks accurately. Stop at the review boundary instead of implementing an unrequested redesign.
 
 DEPTH AND AMBITION
-Full depth. I am willing to wait about 60 minutes for substantial useful work in this turn where the environment permits. Aim for an exceptional result, not the first adequate answer. Save a useful checkpoint, then spend the remaining effort on the most consequential investigation, comparison, making, or repair this task needs. Reserve capacity to verify and deliver. Finish earlier when the real boundary is satisfied; never pad time, pages, or checks. This is an effort preference, not a claim that a prompt controls a timer or model setting.
+Aim to spend a full 60 minutes of active, substantive review in this turn. Assume there is more than an hour of valuable inspection available. An initial verdict or a handful of defects is a checkpoint, not the finish line. Do not stop merely because you can already write a plausible assessment.
+
+Use the remaining time to deepen the evidence: inspect every relevant surface, trace connected journeys and shared state, exercise important failure and recovery paths in an isolated or disposable context, compare the actual experience with the chosen references, and reproduce or disprove consequential findings. Test the strongest counterargument to your verdict. Prioritize gaps most likely to change the rating, readiness judgment, or recommended next investment.
+
+Keep the candidate unchanged. Read-only describes the boundary on modifying the work; it does not limit the depth of investigation. Save review notes and evidence as you go, then reserve the final part of the hour for checking findings, reconciling contradictions, and delivering a clear assessment. Do not fill time with idle waits, repetitive checks, invented defects, or unnecessary pages.
+
+If a genuine environment, context, tool, or permission limit prevents further useful review, save the strongest supported assessment and state the specific limit and remaining checks. Report elapsed work only when measured; do not imply that this instruction guarantees a runtime or that work continues after your response.
 
 AVAILABLE CAPABILITIES
 Use the capabilities actually available: Nessie and Supermemory for relevant history; Remote Desktop Commander for the real Mac files, local apps, processes, and inspection; connected apps for their live records; web research for current public evidence. Discover and verify the needed access rather than assuming it works. Use applicable skills and the project-approved asset workflow. Separate workers are useful only when genuinely available, authorized, and worth their cost; role-play is not independence. Recover accessible context before asking me to repeat it.
