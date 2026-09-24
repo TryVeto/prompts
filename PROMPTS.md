@@ -232,6 +232,8 @@ For comparisons, use reasonably matched artifacts before maker rankings. Allow A
 
 Use a fresh reviewer only when genuinely available and authorized. Disclose maker knowledge or same-context review; multiple role names do not create independence. Predicted audience reactions are not observed user tests.
 
+As part of your deliverable, tell me where this work stands in a ten-story building: floor 1 is unusable, and floor 10 is a smash hit. Give an honest whole-number floor rating, explain the decisive evidence behind it, and identify what would move it up the next floor. Treat the rating as a reasoned judgment, not an objective measurement. State whether it meets our shipping standard separately; a high rating cannot cancel a release-blocking failure.
+
 RETURN
 The assessment and few decision-changing findings, with inspection evidence and limits, strengths to retain, and the smallest worthwhile next intervention. Mark not-run, blocked, failed, and inconclusive checks accurately. Stop at the review boundary instead of implementing an unrequested redesign.
 
