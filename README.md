@@ -6,32 +6,17 @@ A small, keyboard-first prompt library for substantial AI work.
 
 ## What this is
 
-Veto Prompts is the prompt set and local frontend we use to move through a project: define it, find examples, explore ideas, develop the strongest direction, make the work, polish it, review it, apply feedback, finish it, and learn from the result.
+Veto Prompts is the prompt set and local frontend we use to define, develop, make, review, and improve substantial work. Every prompt uses the same operator-readable shape: **Objective → Key results → Milestones → Instructions → Notes**.
 
-The public repository contains the prompt text and the frontend. It intentionally does **not** contain private review history, local databases, access tokens, internal files, or personal working notes.
+The public repository contains the prompt text and the frontend. It intentionally does **not** contain private review history, local databases, access tokens, internal files, project-specific prompts, or personal working notes.
 
 ## Use it
 
-Run:
+Run `python3 server.py`, then open `http://localhost:8926/`. Press a prompt key to copy it, press Enter to open it, or use ⌘K / Ctrl-K to search. In a prompt reader, press C or click **Copy prompt**.
 
-```bash
-python3 server.py
-```
+Each prompt has one canonical version. There are no hidden effort variants.
 
-Then open `http://localhost:8926/`.
-The keyboard flow is deliberately simple:
-
-- Press **1–9** or **0** to copy a main prompt immediately.
-- Press **R / C / X / Q / S** to copy the situational prompts immediately.
-- Under **Building Stuff**, press **B** for “Write a feature spec” **J** for “Ready to ship?”, or **N** for “Iterate with the reference”.
-- Press **Enter** to open the prompt you just copied.
-- Press **⌘K** / **Ctrl-K** to search.
-- In any prompt reader, press **C**, click **Copy prompt**, or press **⌘Enter** / **Ctrl-Enter**. Typing fields and normal ⌘C / Ctrl-C are unaffected.
-- Press **Escape** to return to the library.
-
-Each prompt has one canonical version. There are no hidden short/deep/full variants.
-
-## The prompts
+## Main prompts
 
 | Key | Prompt |
 | --- | --- |
@@ -45,7 +30,8 @@ Each prompt has one canonical version. There are no hidden short/deep/full varia
 | 8 | Apply feedback |
 | 9 | Finish and deliver |
 | 0 | Learn from the work |
-Situational prompts:
+
+## More prompts
 
 | Key | Prompt |
 | --- | --- |
@@ -53,9 +39,20 @@ Situational prompts:
 | C | Add context |
 | X | Correct course |
 | Q | Research a question |
+| H | Think it through |
 | S | Improve a skill |
+| B | Write a feature spec |
+| J | Ready to ship? |
+| N | Iterate with the reference |
+| V | Revise from a review |
+| T | Aim for floor 10 |
+| P | Copy me — New prompt |
 
 The full text is in [PROMPTS.md](PROMPTS.md) and [prompts.json](prompts.json).
+
+## New prompt template
+
+Press **P** for **Copy me — New prompt**. It is the template for adding future prompts using the same five-section format.
 
 ## Frontend
 
@@ -66,7 +63,3 @@ The UI is plain HTML, CSS, and JavaScript. There is no build step and no framewo
 ## License
 
 MIT. See [LICENSE](LICENSE).
-
-## Working sequence
-
-Define the project → Find the reference → Explore and validate. Carry the chosen reference into subsequent iterations: “If [reference] were to build this, how would they do it—and why?” Use the iteration prompt with key N.
