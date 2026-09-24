@@ -1,5 +1,5 @@
 const $=s=>document.querySelector(s);
-const keyMap={'1':'01','2':'02','3':'03','4':'04','5':'05','6':'06','7':'07','8':'08','9':'09','0':'10',r:'R',c:'C',x:'X',q:'Q',s:'S',b:'B',j:'J',n:'N',v:'V',t:'T',h:'H'};
+const keyMap={'1':'01','2':'02','3':'03','4':'04','5':'05','6':'06','7':'07','8':'08','9':'09','0':'10',r:'R',c:'C',x:'X',q:'Q',s:'S',b:'B',j:'J',n:'N',v:'V',t:'T',h:'H',p:'P'};
 let prompts=[],matches=[],chosen=null,openId=null,composing=false;
 const row=id=>prompts.find(p=>p.id===id);
 const normalize=s=>String(s||'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim();
@@ -16,7 +16,7 @@ function prose(text,target){
  const labels={'MY ROUGH IDEA':'Your idea','STARTING MATERIAL':'Starting material','RETURN':'What to deliver','DEPTH AND AMBITION':'Depth and ambition','AVAILABLE CAPABILITIES':'Tools and resources','AUTHORITY AND CONTINUITY':'Authority and continuity','TASK AND STARTING MATERIAL':'Task and starting material','ASSIGNMENT / OPEN CHOICE':'The open question'};
  for(const block of text.split(/\n\s*\n/)){
   const lines=block.split('\n');
-  if(/^[A-Z][A-Z /&—-]+$/.test(lines[0])&&lines[0].length<65){
+  if(/^(Objective|Key results|Milestones|Instructions|Notes):$/.test(lines[0])||(/^[A-Z][A-Z /&—-]+$/.test(lines[0])&&lines[0].length<65)){
    const label=lines.shift(),h=document.createElement('h3');
    h.textContent=labels[label]||label.charAt(0)+label.slice(1).toLowerCase();target.append(h);
   }
