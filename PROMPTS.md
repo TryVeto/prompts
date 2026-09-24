@@ -34,6 +34,15 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
 
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
+
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
 Here is the project:
@@ -74,6 +83,15 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
 
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
+
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
 Here is the project to find a reference for:
@@ -107,6 +125,15 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
+
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
 
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
@@ -142,6 +169,15 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
 
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
+
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
 Here is the idea to develop:
@@ -175,6 +211,15 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
+
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
 
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
@@ -211,6 +256,15 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
+
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
 
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
@@ -250,6 +304,15 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
 
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
+
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
 Here is the work to review:
@@ -288,6 +351,15 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
 
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
+
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
 Here is the feedback:
@@ -319,6 +391,15 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
+
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
 
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
@@ -392,6 +473,15 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
 
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
+
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
 Here is the project to resume:
@@ -455,6 +545,15 @@ Use the capabilities actually available: Nessie and Supermemory for relevant his
 
 AUTHORITY AND CONTINUITY
 My decisions, source material, and your proposals are different things. Preserve the actual source of record, accepted strengths, prior versions, and my verbatim feedback. Existing permissions and budgets govern; no unapproved charges, publication, deployment, contact with people, or global installation. Save editable work and maintain existing project state yourself. Report actual inspection, execution, and gaps; never invent tests, approval, or completion. A compact handoff is welcome; a shallow result is not.
+
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
 
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
@@ -550,6 +649,15 @@ Produce a spec someone can build from: the user problem and intended outcome, sc
 
 Lead with your recommended approach and the decisions that matter most. Save the editable spec in the project’s existing location, preserve prior work, and identify any unresolved issue that could materially change implementation.
 
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
+
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
 Here is the feature:
@@ -574,6 +682,15 @@ If more work is worthwhile, identify the one to three improvements with the high
 
 Lead with the verdict and decisive evidence. Be candid: do not reassure me because we have invested time, and do not recommend another round just because further improvement is possible. This is a readiness assessment; do not deploy or expand scope unless separately authorized.
 
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
+
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
 Here is the work to assess:
@@ -597,6 +714,15 @@ Explain what this implies for the overall experience and each relevant surface: 
 Then improve the current work using the strongest applicable ideas. Preserve accepted strengths and requirements. Follow the reference’s useful principles without copying details that do not fit. Work within the authorized scope; if this is an assessment-only task, deliver concrete proposed changes instead.
 
 Inspect the revised result in its actual medium, compare it with the previous version, and verify the affected journey or behavior. Report what improved, what evidence supports that judgment, and whether another iteration is worthwhile. Save the revised artifact and retain the prior version and the reference rationale.
+
+SANDBOX DELIVERY
+When the work involves a sandbox or interactive product prototype, use this delivery shape unless I specify otherwise: one self-contained, versioned HTML file, with embedded styles, scripts, and required assets where practical, that opens locally without installation or a build step. Present it as a rendered HTML preview in chat when supported and provide a direct downloadable file alongside it. A screenshot, specification, or ZIP alone does not replace the runnable artifact. Include editable source or supporting files separately when needed.
+
+Make the artifact feel like the product: direct entry into the actual interface, realistic content, working navigation and meaningful interactions, and connected state across all in-scope surfaces. Fit the available viewport and support the relevant desktop and phone layouts. Avoid nested app frames, fake device hardware, duplicate headers, and authoring chrome. Preserve the established design and canonical documents.
+
+Keep sandbox labels, version banners, fictional-data notices, review conditions, test controls, and implementation notes out of the customer-facing interface. Put testing limitations, simulated behavior, and verification evidence in the accompanying handoff. Use local simulated data; do not trigger real messages, payments, or external-service actions. Verify the delivered HTML itself, including entry, navigation, key interactions, and local opening; report anything not tested.
+
+For planning or specifications, define this artifact shape and its acceptance criteria. For making or iteration, deliver the updated artifact. For review-only work, assess the existing artifact against this shape without changing it.
 
 Use the existing conversation and project materials for context; incorporate any details I add below.
 
